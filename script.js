@@ -1,1 +1,0 @@
-console.log('SG Digital Business v1 cargado');
